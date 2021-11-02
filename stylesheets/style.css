@@ -1,0 +1,6 @@
+@import "reset.css";/* сбор настроек */
+@import "layout.css"; /* макет  */
+@import "content.css"; /* контент / содержимое  */
+@import "nav.css";
+@import "responsive.css";/* адаптивность */
+@import "index.css";
